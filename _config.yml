@@ -8,14 +8,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : GFPTS on GitHub Pages
+title : GFPTS
 tagline: Site Tagline
-author :
+author : Jio
   name : gfpts
   email : ptsgta@email.test
   github : gfpts
   twitter : gfpts
-  feedburner : feedname
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
