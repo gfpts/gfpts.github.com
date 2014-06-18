@@ -4,7 +4,7 @@ title: "AWS EC2 HD Resize for Linux"
 description: "AWS EC2 HD Resize for Linux"
 category: cloud
 tags: [AWS]
-published: true
+published: false
 ---
 {% include JB/setup %}
 
